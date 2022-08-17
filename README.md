@@ -6,7 +6,10 @@
 
 <div align="center">
   <div style="background:#000000;">
-<img src="https://github.com/gitkushagra/gitkushagra/raw/main/main.gif" width="100%" />
+<video controls autoplay>
+  <source src="movie.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
   </div>
 </div>
 
