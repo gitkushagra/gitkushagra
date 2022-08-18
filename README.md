@@ -13,20 +13,30 @@
 ### A few things about me
 - 🔭 I’m currently working on ... Campus Konnect application based on HTML, CSS and JavaScript along with backend database
 - 🌱 I’m currently learning ... Java Full Stack 
-- 📫 How to reach me: ... <ul><a href="http://www.credly.com/users/kushagrame">
-                    <img src="./assets/images/credlylogo.webp" alt="CREDLY" style="width:100px;height:42px;">
-                    <img src="./assets/logos/hyperlink.png" style="width:30px;height:30px;">
-                    </a><li><a href="http://www.linkedin.com/in/kushagraprofile">Find me on GitHub @gitkushagra</a></li></ul>
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-<!-- - Graduated in 2021 with a B.S. in Web Design & Development from Southern New Hampshire University
- - Currently working on a web application for film photography and for international travel -->
+- 📫 How to reach me: ... <ul><li><a href="http://www.credly.com/users/kushagrame">
+                    <img src="https://github.com/gitkushagra/gitkushagra/raw/main/credlylogo.webp" alt="CREDLY" style="width:100px;height:32px;">
+                    <img src="https://github.com/gitkushagra/gitkushagra/raw/main/hyperlink.png" style="width:30px;height:30px;"></li><li><a href="http://www.linkedin.com/in/kushagraprofile">
+                    <img src="https://github.com/gitkushagra/gitkushagra/raw/main/linkedin.png" alt="LinkedIn" style="width:100px;height:32px;">
+                    <img src="https://github.com/gitkushagra/gitkushagra/raw/main/hyperlink.png" style="width:30px;height:32px;"></li><li><a href="https://trailblazer.me/id/kushagrame">
+                    <img src="https://raw.githubusercontent.com/gitkushagra/gitkushagra/d630469562bc437e8e58a2f3f354159441f44cb1/trailblazer.svg" alt="CREDLY" style="width:100px;height:32px;">
+                    <img src="https://github.com/gitkushagra/gitkushagra/raw/main/hyperlink.png" style="width:30px;height:30px;"></li><li><a href="http://www.kushagrame.work">
+                    <img src="https://github.com/gitkushagra/gitkushagra/raw/main/portfolio.png" alt="CREDLY" style="width:100px;height:32px;">
+                    <img src="https://github.com/gitkushagra/gitkushagra/raw/main/hyperlink.png" style="width:30px;height:30px;"></li><li><a href="http://lifebykush.blogspot.com">
+                    <img src="https://github.com/gitkushagra/gitkushagra/raw/main/Blogger.png" alt="CREDLY" style="width:100px;height:32px;">
+                    <img src="https://github.com/gitkushagra/gitkushagra/raw/main/hyperlink.png" style="width:30px;height:30px;"></li>
+                    </a></li><li><a href="mailto:kbrandon319@gmail.com">
+    <img src="https://raw.githubusercontent.com/gitkushagra/gitkushagra/1a3c2b7a9da1b0157e195ac88d2bb19eb4ea766e/Gmail-blue.svg" alt="Email Badge" />
+  </a></li></ul>
+- 😄 Pronouns: ... he/him
+- ⚡ Fun fact: ... I love cooking!
+<!-- - Graduated in 2023 with a B.Tech in Information Technology from Galgotias college of enginerring and technology
+ - Currently working  -->
 
 <br>
 
----
 
-#### :hammer_and_wrench: LANGUAGES & TOOLS :
+
+<!--- #### :hammer_and_wrench: LANGUAGES & TOOLS :
 <div align="center">
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
@@ -40,15 +50,15 @@
  
 </div>
 </div>
+--->
 
----
 
-#### :book: CURRENTLY LEARNING :
+<!--- #### :book: CURRENTLY LEARNING :
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   </div>
+ --->
 
----
 
 ## Have a project you want to collaborate on or you just want to chat? You can contact me through either method below:
 <div id="badges" align="center">
