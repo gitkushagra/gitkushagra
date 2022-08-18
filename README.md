@@ -59,7 +59,7 @@
   </div>
  --->
 
-
+<!---
 ## Have a project you want to collaborate on or you just want to chat? You can contact me through either method below:
 <div id="badges" align="center">
   <br><br>
@@ -79,5 +79,5 @@
   
   <h2>Talk to you soon!</h2>
 </div>
-
-![](https://komarev.com/ghpvc/?username=kbrandon19&style=for-the-badge)
+--->
+![](https://komarev.com/ghpvc/?username=gitkushagra&style=for-the-badge)
