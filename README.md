@@ -5,12 +5,7 @@
 ---
 
 <div align="center">
-  <div style="background:#000000;">
-<video controls autoplay>
-  <source src="movie.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-  </div>
+<img alt="Twitch Status" src="https://www.kushagrame.work/assets/images/kushagrafinalbanner.png">
 </div>
 
 # Hey there :wave:, I'm Kenneth, it's a pleasure to meet you!
