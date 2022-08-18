@@ -24,7 +24,7 @@
                     <img src="https://github.com/gitkushagra/gitkushagra/raw/main/hyperlink.png" style="width:30px;height:30px;"></li><li><a href="http://lifebykush.blogspot.com">
                     <img src="https://github.com/gitkushagra/gitkushagra/raw/main/Blogger.png" alt="CREDLY" style="width:100px;height:32px;">
                     <img src="https://github.com/gitkushagra/gitkushagra/raw/main/hyperlink.png" style="width:30px;height:30px;"></li>
-                    </a></li><li><a href="mailto:kbrandon319@gmail.com">
+                    </a></li><li><a href="mailto:examkush@gmail.com">
     <img src="https://raw.githubusercontent.com/gitkushagra/gitkushagra/1a3c2b7a9da1b0157e195ac88d2bb19eb4ea766e/Gmail-blue.svg" alt="Email Badge" />
   </a></li></ul>
 - 😄 Pronouns: ... he/him
