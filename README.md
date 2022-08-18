@@ -5,16 +5,20 @@
 ---
 
 <div align="center">
-<img alt="Twitch Status" src="https://www.kushagrame.work/assets/images/kushagrafinalbanner.png">
+<img alt="Twitch Status" src="https://github.com/gitkushagra/gitkushagra/raw/main/Capture.PNG">
 </div>
 
-# Hey there :wave:, I'm Kenneth, it's a pleasure to meet you!
+# Hey there :wave:, I'm Kushagra, it's a pleasure to meet you!
 
 ### A few things about me
-- I am frontend web developer doing all things creative to make the web a more unique and awesome place.
-- Coffee, photography, music and art are my happy places 
-- I enjoy bringing a static design or idea to life and learning new technologies.
-- Skilled in creating responsive designs, UI Design, HTML Emails, copywriting, and social media marketing.
+- 🔭 I’m currently working on ... Campus Konnect application based on HTML, CSS and JavaScript along with backend database
+- 🌱 I’m currently learning ... Java Full Stack 
+- 📫 How to reach me: ... <ul><a href="http://www.credly.com/users/kushagrame">
+                    <img src="./assets/images/credlylogo.webp" alt="CREDLY" style="width:100px;height:42px;">
+                    <img src="./assets/logos/hyperlink.png" style="width:30px;height:30px;">
+                    </a><li><a href="http://www.linkedin.com/in/kushagraprofile">Find me on GitHub @gitkushagra</a></li></ul>
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
 <!-- - Graduated in 2021 with a B.S. in Web Design & Development from Southern New Hampshire University
  - Currently working on a web application for film photography and for international travel -->
 
